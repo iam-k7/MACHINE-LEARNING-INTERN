@@ -60,7 +60,7 @@ Each task includes data exploration, model building, prediction, and evaluation 
 
 ## 📁 Project File Structure
 
-    ```bash
+```bash
     MACHINE-LEARNING-INTERN/
     │
     ├── Tasks/
@@ -74,7 +74,7 @@ Each task includes data exploration, model building, prediction, and evaluation 
     ├── requirements.txt
     ├── LICENSE
     └── README.md
-
+```
 ---
 
 ## ⚙ How to Run
