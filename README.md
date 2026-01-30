@@ -60,19 +60,20 @@ Each task includes data exploration, model building, prediction, and evaluation 
 
 ## 📁 Project File Structure
 
-MACHINE-LEARNING-INTERN/
-│
-├── Tasks/
-│   │
-│   ├── Task1_House_Price_Prediction.ipynb
-│   ├── Task2_Customer_Segmentation.ipynb
-│   ├── Task3_Cuisine_Classification.ipynb
-│   └── data.csv
-│
-├── .gitignore
-├── requirements.txt
-├── LICENSE
-└── README.md
+    ```bash
+    MACHINE-LEARNING-INTERN/
+    │
+    ├── Tasks/
+    │   │
+    │   ├── Task1_House_Price_Prediction.ipynb
+    │   ├── Task2_Customer_Segmentation.ipynb
+    │   ├── Task3_Cuisine_Classification.ipynb
+    │   └── data.csv
+    │
+    ├── .gitignore
+    ├── requirements.txt
+    ├── LICENSE
+    └── README.md
 
 ---
 
